@@ -3,17 +3,17 @@ import project2 from "../assets/projects/Chatbot.jpg";
 import project3 from "../assets/projects/project-3.png";
 //import project4 from "../assets/projects/project-4.png";
 import project5 from "../assets/projects/project-5.png";
-import project6 from "../assets/projects/project-6.png";
+import project6 from "../assets/projects/cybersecurity.png";
 import project7 from "../assets/projects/project-7.png";
 
 
-export const HERO_CONTENT = `Dedicated Full Stack Developer with over 3.5+ years of experience in building robust, scalable web applications. Skilled in front-end technologies like React.js, HTML, and CSS, as well as back-end development with Node.js and Java Spring Boot. Proficient in database management using MySQL and MongoDB, with experience in cloud computing and AWS services. Passionate about leveraging technology to develop innovative solutions that drive business growth and enhance user experiences.`
+export const HERO_CONTENT = `Dedicated Full Stack Developer with over 3.5+ years of experience in building robust, scalable web applications. Skilled in front-end technologies like React.js, HTML5/CSS3, as well as back-end development with Java, Spring Boot, Node.js. Proficient in database management using MySQL and MongoDB, with experience in cloud computing and AWS services. Passionate about leveraging technology to develop innovative solutions that drive business growth and enhance user experiences.`
 
 export const ABOUT_TEXT = `Hello! I’m Shruti Joshi from Seattle, USA, currently pursuing MS in Computer Science at Seattle University (GPA: 3.85). I hold a Bachelor's in Information Technology from Pune University.
 
-I have experience as a Full-Stack Developer at Mastercard and a Associate Software Engineer at Accenture, where I worked on REST APIs, microservices, and test automation. My expertise includes Java, React, Spring Boot, CI/CD, and system design. Collaborating with solution architects sparked my interest in domain-driven design and software architecture.
+I have experience as a Full-Stack Developer at Mastercard and a Associate Software Engineer at Accenture, where I worked on REST APIs, microservices, test automation. My expertise includes Java, React, Spring Boot, system design, Microservice architeture, REST APIs and CI/CD. Collaborated with solution architects, Product Managers in discussions on domain-driven design and software architecture.
 
-Outside of work, I enjoy basketball, table tennis, and badminton. I’m currently seeking a Software Engineer internship or co-op, with a focus on full-stack or cloud development. Let’s connect!`;
+Outside of work, I enjoy cooking, badminton and bollywood dancing. I’m currently seeking a Software Engineer internship or co-op, with a focus on full-stack or cloud development. Let’s connect!`;
 
 export const EXPERIENCES = [
   {
@@ -62,7 +62,7 @@ export const PROJECTS = [
    image: project5,
    description:
       "Developed the vacation planner website using C# and .Net Framework features city search, likes, comments, travel tips, sorting, and filtering, with Google Maps API integration to enhance user experience. The project followed Agile methodology, with continuous iterations based on user feedback. Key metrics include 100% unit testing coverage, ensuring robustness and reliability, and deployment on Microsoft Azure, supporting scalability for multiple users. Multi-tab operations were implemented, ensuring updates in one window reflected instantly in others, and performance optimizations resulted in fast load times and smooth interactions.",
-   technologies: ["C#", ".NET Framework", "JavaScript", "JSON", "HTML/CSS"],
+   technologies: ["C#", ".NET Framework", "JavaScript", "JSON", "HTML/CSS","Azure"],
   },
   /*{
     title: "AWS Cloud Computing: Cloud Native HR Management SAAS Application",
@@ -73,7 +73,7 @@ export const PROJECTS = [
   },*/
   {
     title: "Cybersecurity Awareness Website",
-    image: project2,
+    image: project6,
     description:
       "Developed as a solo project, the cybersecurity website was created using HTML, CSS, and JavaScript, featuring a chat screen to answer cybersecurity-related questions in real-time. The Llama2 model was integrated through Ollama to generate accurate and relevant responses to user queries. Express was used for the frontend to handle dynamic content, while Node.js powered the backend to efficiently manage requests and ensure smooth communication between the frontend and the AI model. This project combined web development skills with AI integration, offering an interactive and informative platform for users interested in cybersecurity.",
       technologies: ["Express.js", "Node.js", "LLM", "Llama2 model", "Prompt Engineering", "Ollama"],
@@ -82,7 +82,7 @@ export const PROJECTS = [
     title: "InstacartQueryEngine",
     image: project3,
     description:
-      "Developed a web application in java that runs on amazon EC2 instance and shows a table of results after querying MySQL database and Amazon RedShift.",
+      "Developed a web application in java that runs on amazon EC2 instance and shows a table of results after querying MySQL database and Amazon RedShift based on instacart data.",
     technologies: [
       "Java",
       "HTML",
