@@ -5,7 +5,7 @@ import { FaGithub } from "react-icons/fa";
 const Contact = () => {
   return (
     <div id = "contact" className="border-b border-neutral-900 pb-4 pt-20">
-      <h2 className="my-20 text-center text-4xl">Get in Touch</h2>
+      <h2 className="mb-4 text-center text-4xl">Get in Touch</h2>
       <div className="my-5 flex justify-center items-center border-neutral-300 rounded flex-col text-sm sm:text-base md:text-lg text-purple-300 ">
         <p>Shruti Joshi</p>
         <p>Seattle University</p>

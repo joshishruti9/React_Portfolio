@@ -6,7 +6,7 @@ import { FaGithub } from "react-icons/fa";
 
 const Hero = () => {
   return (
-    <div id = "hero" className="border-b border-neutral-900 pb-4 lg:mb-35 pt-48">
+    <div id = "hero" className="border-b border-neutral-900 pb-4 lg:mb-35 pt-44">
       <div className="flex flex-wrap">
         <div className="w-full lg:w-1/2">
           <div className="flex flex-col items-center lg:items-start">

@@ -17,7 +17,7 @@ export const EXPERIENCES = [
   {
     year: "June 2025 – Present",
     role: "Software Development Intern",
-    company: "Bilimetrix USA (Seattle, USA)",
+    company: "Bilimetrix USA LLC(Seattle, USA)",
     description: ["Redesigned the 'Results Page' using C#, Razor Pages, and the .NET stack, adding key functionalities and UI/UX enhancements that ultimately saved doctor’s of interpretation time by ~20%.",
       "Optimized existing workflows by resolving critical bugs across the application, improving performance and user experience using C#.",
       "Ensured 100% unit test coverage using Test-Driven Development (TDD) achieving high-quality, regression-free releases."
