@@ -3,7 +3,7 @@ import { EXPERIENCES } from "../constants";
 
 const Experience = () => {
   return (
-    <div className="border-b border-neutral-900 pb-4">
+    <div id = "experience" className="border-b border-neutral-900 pb-4 pt-20">
       <h2 className="my-20 text-center text-4xl">Experience</h2>
       <div>
         {EXPERIENCES.map((exp, i) => (
@@ -18,7 +18,11 @@ const Experience = () => {
                   {exp.company}
                 </span>
               </h6>
-              <p className="mb-4 text-neutral-400 text-md">{exp.description}</p>
+              <ul className="mb-4 text-neutral-400 text-md list-disc list-inside">
+                {exp.description.map((point, idx) => (
+                <li key={idx}>{point}</li>
+                  ))}
+              </ul>
               <div className="flex flex-wrap">
                  {exp.technologies.map((tech, i) => (
                 <span

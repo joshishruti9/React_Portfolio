@@ -3,8 +3,8 @@ import { PROJECTS } from "../constants";
 
 const Projects = () => {
   return (
-    <div className="border-b border-neutral-900 pb-4">
-      <h2 className="my-20 text-center text-4xl">Project</h2>
+    <div id = "projects" className="border-b border-neutral-900 pb-4 pt-20">
+      <h2 className="my-20 text-center text-4xl">Projects</h2>
       <div className="">
         {PROJECTS.map((project, i) => (
           <div className="mb-8 flex flex-wrap lg:justify-center" key={i}>

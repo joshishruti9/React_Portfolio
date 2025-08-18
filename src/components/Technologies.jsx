@@ -6,14 +6,18 @@ import { IoLogoJavascript } from "react-icons/io";
 import { FaAws } from "react-icons/fa";
 import { FaGitAlt } from "react-icons/fa";
 import { FaJava } from "react-icons/fa";
+import { FaPython } from "react-icons/fa"
 
 const Technologies = () => {
   return (
-    <div className="border-b border-neutral-800 pb-24">
+    <div id = "technologies" className="border-b border-neutral-800 pb-24 pt-24">
       <h2 className="my-20 text-center text-4xl">Technologies</h2>
       <div className="flex flex-wrap items-center justify-center gap-4">
         <div className="rounded-2xl border-4 border-neutral-800 p-4">
           <FaJava className="text-7xl " />
+        </div>
+        <div className="rounded-2xl border-4 border-neutral-800 p-4">
+          <FaPython className="text-7xl text-yellow-500" />
         </div>
         <div className="rounded-2xl border-4 border-neutral-800 p-4">
           <SiSpringboot className="text-7xl text-green-500" />
@@ -32,6 +36,9 @@ const Technologies = () => {
         </div>
         <div className="rounded-2xl border-4 border-neutral-800 p-4">
           <SiApachekafka className="text-7xl text-green-500" />
+        </div>
+        <div className="rounded-2xl border-4 border-neutral-800 p-4">
+          <fa-mysql className="text-7xl text-red-500" />
         </div>
       </div>
     </div>

@@ -3,7 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\shruti\\OneDrive\\Desktop\\Job Intern\\react-portfolio-master\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shruti\\OneDrive\\Desktop\\Homeowrk4\\pledge_count.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shruti\\OneDrive\\Desktop\\Job Intern\\react-portfolio-master\\src\\constants\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:constants\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\components\\navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\pages\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\components\\videoUpload.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\components\\videoPlayer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\components\\videoList.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\components\\searchbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,20 +41,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.js",
+              "DocumentMoniker": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\pages\\home.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\pages\\home.js",
+              "ToolTip": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\pages\\home.js",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\pages\\home.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-15T23:14:52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\App.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\App.js",
+              "ToolTip": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\App.js",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-15T23:14:34.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\App.css",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\App.css",
+              "ToolTip": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\App.css",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-15T23:14:30.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\index.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\index.js",
+              "ToolTip": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\index.js",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-15T23:14:27.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "videoUpload.js",
+              "DocumentMoniker": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\components\\videoUpload.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\components\\videoUpload.js",
+              "ToolTip": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\components\\videoUpload.js",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\components\\videoUpload.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-15T23:14:12.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "videoPlayer.js",
+              "DocumentMoniker": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\components\\videoPlayer.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\components\\videoPlayer.js",
+              "ToolTip": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\components\\videoPlayer.js",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\components\\videoPlayer.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-15T23:14:09.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "navbar.js",
+              "DocumentMoniker": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\components\\navbar.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\components\\navbar.js",
+              "ToolTip": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\components\\navbar.js",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\components\\navbar.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-15T23:13:51.158Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "pledge_count.json",
-              "DocumentMoniker": "C:\\Users\\shruti\\OneDrive\\Desktop\\Homeowrk4\\pledge_count.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\Homeowrk4\\pledge_count.json",
-              "ToolTip": "C:\\Users\\shruti\\OneDrive\\Desktop\\Homeowrk4\\pledge_count.json",
-              "RelativeToolTip": "..\\..\\..\\Homeowrk4\\pledge_count.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-24T02:09:11.228Z",
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\shruti\\OneDrive\\Desktop\\Job Intern\\react-portfolio-master\\src\\constants\\index.js",
+              "RelativeDocumentMoniker": "constants\\index.js",
+              "ToolTip": "C:\\Users\\shruti\\OneDrive\\Desktop\\Job Intern\\react-portfolio-master\\src\\constants\\index.js",
+              "RelativeToolTip": "constants\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-15T22:16:17.69Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "videoList.js",
+              "DocumentMoniker": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\components\\videoList.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\components\\videoList.js",
+              "ToolTip": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\components\\videoList.js",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\components\\videoList.js",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-15T23:13:24.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "searchbar.js",
+              "DocumentMoniker": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\components\\searchbar.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\components\\searchbar.js",
+              "ToolTip": "C:\\Users\\shruti\\Downloads\\youtube-app\\frontend\\src\\components\\searchbar.js",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\youtube-app\\frontend\\src\\components\\searchbar.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-15T23:13:09.237Z"
             }
           ]
         }

@@ -1,12 +1,12 @@
 import React from "react";
 import { HERO_CONTENT } from "../constants";
 import profilePic from "../assets/main.jpg";
-import { FaLinkedin } from "react-icons/fa";
+import { FaEnvelope, FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 
 const Hero = () => {
   return (
-    <div className="border-b border-neutral-900 pb-4 lg:mb-35">
+    <div id = "hero" className="border-b border-neutral-900 pb-4 lg:mb-35 pt-48">
       <div className="flex flex-wrap">
         <div className="w-full lg:w-1/2">
           <div className="flex flex-col items-center lg:items-start">
@@ -21,13 +21,16 @@ const Hero = () => {
             </p>
             <div className="m-8 flex item-center justify-center gap-8 text-4xl cursor-pointer">
               <a
-                href="https://www.linkedin.com/in/shruti-joshi-44177817b/"
+                href="https://www.linkedin.com/in/joshishruti9/"
                 target="_blank"
               >
                 <FaLinkedin />
               </a>
               <a href="https://github.com/joshishruti9" target="_blank">
                 <FaGithub />
+              </a>
+              <a href="mailto:joshishruti009@gmail.com" target="_blank">
+                <FaEnvelope />
               </a>
             </div>
           </div>
