@@ -32,7 +32,7 @@ const Navbar = () => {
      
       <ul class="flex space-x-10 text-lg">
         <li><a href="#about" class="hover:text-cyan-400 transition">About</a></li>
-        <li><a href="#skills" class="hover:text-cyan-400 transition">Skills</a></li>
+        <li><a href="#technologies" class="hover:text-cyan-400 transition">Skills</a></li>
         <li><a href="#experience" class="hover:text-cyan-400 transition">Experience</a></li>
         <li><a href="#projects" class="hover:text-cyan-400 transition">Projects</a></li>
         <li><a href="#contact" class="hover:text-cyan-400 transition">Contact</a></li>
