@@ -15,7 +15,7 @@ Outside of work, I enjoy cooking, badminton and bollywood dancing. I’m current
 
 export const EXPERIENCES = [
   {
-    year: "June 2025 – Present",
+    year: "July 2025 – Present",
     role: "Software Development Intern",
     company: "Bilimetrix USA LLC (Seattle, USA)",
     description: ["Redesigned the 'Results Page' using C#, Razor Pages, and the .NET stack, adding key functionalities and UI/UX enhancements that ultimately saved doctor’s of interpretation time by ~20%.",
