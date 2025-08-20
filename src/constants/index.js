@@ -22,12 +22,12 @@ export const EXPERIENCES = [
       "Optimized existing workflows by resolving critical bugs across the application, improving performance and user experience using C#.",
       "Ensured 100% unit test coverage using Test-Driven Development (TDD) achieving high-quality, regression-free releases."
     ],
-    technologies: ["Java", "Spring Boot","Microservices", "React", "Karate Framework", "Axon Framework", "Agile", "AWS", "Cypress", "Jmeter"],
+    technologies: ["C#", "ASP.NET","Razor", "Bunit", "Figma(beginner)", "MVC", "Agile"],
 },
   {
     year: "Aug 2022 – Jun 2024",
-    role: "Software Development Engineer I",
-    company: "Mastercard (Pune, India)",
+    role: "Software Development Engineer",
+    company: "Mastercard",
     description: ["Designed, developed and tested a workflow using Axon Framework with ReactJS based frontend to efficiently process 20000+ daily events for applying promotional benefits to cardholders which boosted customer engagement by 20%.",
 "Improved service resiliency across four team owned services by 30% by achieving 98% regression test coverage with Karate framework for both APIs and events.",
 "Implemented a retry strategy using Java and Spring Boot on transiently failed events improving issuer onboarding to the benefits lifecycle and reducing the failure rate by 15%.",
@@ -40,7 +40,7 @@ export const EXPERIENCES = [
   {
     year: "Dec 2020 - Jul 2022",
     role: "Associate Software Engineer",
-    company: "Accenture (Pune, India)",
+    company: "Accenture",
     description: ["Migrated SOAP APIs from legacy monolithic application to RESTful APIs in two microservices for AT&T’s US marketplace which improved performance, scalability and ensured 99.999% service availability.",
         "Developed, tested and deployed authentication mechanism for all US customers using token and OTP based security techniques leveraging Java, RabbitMQ, SQL, Docker and Kubernetes.",
 "Enhanced the UST tool by adding six parameters, improving monitoring of upstream and downstream systems using JSP, HTML and CSS and increased data integrity and consistency by 25%.",
@@ -50,8 +50,8 @@ export const EXPERIENCES = [
   },
   {
     year: "Jan 2019 - Jun 2019",
-    role: "SDE Intern",
-    company: "Hewlett Packard Enterprise (Pune, India)",
+    role: "L0 ",
+    company: "Hewlett Packard Enterprise",
     description: ["Underwent extensive training offered by HPE, strengthening my expertise in data engineering and scalable computing.","Worked in a three-member team to develop a Movie Recommendation System, performing data cleaning on the IMDb dataset and applying collaborative filtering techniques for improved recommendation accuracy."," Gained hands-on experience with big data technologies like Hadoop, HDFS, Hive, and Apache Spark to efficiently process large datasets."],
     technologies: ["Hadoop","HDFS", "HIVE","Apache Spark","JSP","Java"],
   },
