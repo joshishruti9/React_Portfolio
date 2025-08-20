@@ -50,7 +50,7 @@ export const EXPERIENCES = [
   },
   {
     year: "Jan 2019 - Jun 2019",
-    role: "L0 ",
+    role: "L0 Trainee Engineer",
     company: "Hewlett Packard Enterprise",
     description: ["Underwent extensive training offered by HPE, strengthening my expertise in data engineering and scalable computing.","Worked in a three-member team to develop a Movie Recommendation System, performing data cleaning on the IMDb dataset and applying collaborative filtering techniques for improved recommendation accuracy."," Gained hands-on experience with big data technologies like Hadoop, HDFS, Hive, and Apache Spark to efficiently process large datasets."],
     technologies: ["Hadoop","HDFS", "HIVE","Apache Spark","JSP","Java"],
